@@ -1,6 +1,7 @@
 package practice11.abstraction_alan_hesaplama;
 
-public class  Ucgen extends Alan {
+
+public class Ucgen extends Alan{
 
     @Override
     public double alanHesapla(double taban, double yukseklik) {
